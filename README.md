@@ -1,0 +1,2 @@
+# pix2code-fastai
+An attempt to improve pix2code using Fast.ai : I modified pix2code project that tries to automatically generate HTML code from design sketches.  In the original project by Tony Beltramelli, the Keras framework was used. I converted all the Keras code into Fast ai PyTorch code.  Compared to the original project, this version will have an image using pre-trained NTT.  The goal of the project is to improve the accuracy and speed of the pix2code problem solution.
